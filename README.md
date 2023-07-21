@@ -12,12 +12,12 @@ A game project that includes a hangman like game based around the 'Space-Man' bu
 ## Getting Started
 Game at GitHub Pages [: Space-Man ](https://ysabbagh2425.github.io/Project-Uno-Revised/)
 
-- Choose the Category
-- Press the key you would like to guess
-- Hope you can figure out the word with 5 max guesses
+- Choose the Category.
+- Press the key you would like to guess.
+- Hope you can figure out the word with 5 max guesses.
 
 ## Planned Features
 - Add keyboard implementation from your pc.
-- Add more GUI and graphical improvements
+- Add more GUI and graphical improvements.
 - Make a score count and more words/categories added.
-- Bugs: fix the space ship on reset and stop input of keys after game end.
+- Bug: Stop player from inputting after finished game.

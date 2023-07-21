@@ -36,6 +36,11 @@ const initializer = () => {
     optionsContainer.innerHTML = "";
     letterContainer.classList.add("hide");
     newGameContainer.classList.add("hide");
+    spaceShip1.classList.add("hide");
+    spaceShip2.classList.add("hide");
+    spaceShip3.classList.add("hide");
+    spaceShip4.classList.add("hide");
+    spaceShip5.classList.add("hide");
     letterContainer.innerHTML = "";
   
     // For creating letter buttons
