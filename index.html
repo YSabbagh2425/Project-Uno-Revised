@@ -6,12 +6,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Space-Man! </title>
-    <link href ="css/style.css" rel="stylesheet" text="text/css">
+    <link href ="css/main.css" rel="stylesheet" text="text/css" />
     <script defer src="js/main.js"></script>
 </head>
 
 <body>
-    
+    <h1> Welcome to Space-Man!</h1>
+    <div class="gameBoard">
+        <div id="selectOptions"></div>
+        <div class="letterBox hide" id="letterBox"></div>
+        <div id="userInput"></div>
+        <div class="spaceParts" id="ship">
+            <div class="hide" id="partOne"></div>
+            <div class="hide" id="partTwo"></div>
+            <div class="hide" id="partThree"></div>
+            <div class="hide" id="partFour"></div>
+            <div class="hide" id="partFive"></div>
+        </div>
+        <div class="newGame hide" id="newGameShow">
+            <div id="gameDecision"></div>
+            <button id="newGameButton"> New Game </button>
+        </div>
+    </div>
 </body>
 
 </html>
