@@ -20,3 +20,4 @@ Game at GitHub Pages [: Space-Man ](https://ysabbagh2425.github.io/Project-Uno-R
 - Add keyboard implementation from your pc.
 - Add more GUI and graphical improvements
 - Make a score count and more words/categories added.
+- Bugs: fix the space ship on reset and stop input of keys after game end.
